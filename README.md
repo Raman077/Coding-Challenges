@@ -1,1 +1,1 @@
-# Coding-Challenges in JAVA
+# Coding Challenges in Java
